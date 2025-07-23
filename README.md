@@ -19,7 +19,7 @@
 在您的终端中运行以下命令，即可开始自动化安装：
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/your-username/claude-kimi-proxy/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/streamneil/claude-kimi-proxy/main/install.sh)"
 ```
 
 安装脚本将引导您完成以下步骤：
@@ -82,7 +82,7 @@ cr code
 
 1.  克隆项目：
     ```bash
-    git clone https://github.com/your-username/claude-kimi-proxy.git
+    git clone https://github.com/streamneil/claude-kimi-proxy.git
     cd claude-kimi-proxy
     ```
 
@@ -108,4 +108,4 @@ npm run build
 
 ## 支持与反馈
 
-如果您遇到任何问题或有功能建议，请随时在 [GitHub Issues](https://github.com/your-username/claude-kimi-proxy/issues) 中提出。
+如果您遇到任何问题或有功能建议，请随时在 [GitHub Issues](https://github.com/streamneil/claude-kimi-proxy/issues) 中提出。
